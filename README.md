@@ -4,4 +4,6 @@ I use the algorithm "Linear Regression" from Scikit Learn to predict when a user
 
 Data Set---> Credit.csv
 
-Technologies: Python, Jupyter Notebook , Scikit Learn 
+Technologies/Libraries Used: Jupyter Notebook , Scikit Learn 
+
+Languages: Python
